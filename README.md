@@ -16,7 +16,7 @@
 - 🌱 I'm constantly learning new technologies and best practices
 - 👯 I'm looking to collaborate on innovative projects
 - 💬 Ask me about React, Next.js, TypeScript, or anything tech-related
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/muhammad-tsalman-602332285/)**
 - ⚡ Fun fact: I love turning coffee into code! ☕️
 
 <br clear="right"/>
