@@ -53,14 +53,6 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=justIsal&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -137,39 +129,5 @@
 <div align="center">
   <h3>⭐️ From <a href="https://github.com/justIsal">justIsal</a> with ❤️</h3>
 </div>
-```
 
-This README includes:
-
-🎨 **Visual Features:**
-- Animated waving banner at top and bottom
-- Typing animation for introduction
-- Animated skill icons using skillicons.dev
-- GitHub stats with Tokyo Night theme
-- Contribution graph and trophies
-
-🛠️ **Tech Stack Display:**
-- All your requested technologies: React.js, Next.js, PostgreSQL, Firebase, Node.js, TypeScript, React Native
-- Organized into categories (Frontend, Mobile, Backend, Tools)
-- Animated and colorful badges
-
-📊 **GitHub Analytics:**
-- Stats cards showing commits, languages, etc.
-- Streak counter
-- Trophy display
-- Contribution activity graph
-
-🔗 **Interactive Elements:**
-- Social media links
-- Support buttons
-- Profile view counter
-- Spotify integration (optional)
-
-**To customize:**
-1. Replace `justIsal` with your actual GitHub username
-2. Add your real email, LinkedIn, Twitter, portfolio links
-3. Update the Spotify integration with your Spotify user ID
-4. Modify the "About Me" section with your personal information
-
-The design uses modern gradients, animations, and a cohesive color scheme that will make your GitHub profile stand out! 🚀
 
