@@ -53,20 +53,6 @@
 
 </div>
 
-<br/>
-
-
-## 💝 Support My Work
-
-<div align="center">
-  <a href="https://ko-fi.com/yourhandle">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-  <a href="https://buymeacoffee.com/yourhandle">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
 
 <br/>
 
